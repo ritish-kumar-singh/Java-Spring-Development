@@ -1,0 +1,19 @@
+public class IfElseIfStatement {
+    public static void main(String[] args) {
+        
+        int x=8;
+        int y=17;
+        int z=6;
+
+        if(x>y && x>z){
+            System.out.println("x is greater than y and z");
+        }
+        else if(y>z){
+            System.out.println("y is greater than x and z");
+        }
+        else{
+            System.out.println("z is greater than x and y");
+        }
+
+    }
+}

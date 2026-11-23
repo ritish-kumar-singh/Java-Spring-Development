@@ -15,9 +15,5 @@ public class LogicalOperators {
         System.out.println("Result 2: " + result2);
         System.out.println("Result 3: " + result3);
         System.out.println("Result 4: " + result4);
-
-        
-
-
     }
 }
